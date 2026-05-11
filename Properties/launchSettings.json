@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GetToken": {
+      "commandName": "Project",
+      "commandLineArgs": "prod"
+    }
+  }
+}
